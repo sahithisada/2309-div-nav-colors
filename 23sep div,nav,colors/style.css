@@ -1,0 +1,47 @@
+div{
+    background-color: rgb(183, 128, 234);
+    display: inline-block;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    border: 3px solid rgb(30, 5, 53);
+}
+.playerImg{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(210, 107, 184);
+    border: 5px;
+    border-radius: 20px;
+}
+div h2{
+    text-align: center;
+}
+div p{
+    text-align: left;
+}
+body{
+    background-color: rgb(141, 93, 223);
+}
+.sindhuDiv{
+    display:inline-block;
+    text-align: center;
+    height: 400px;
+    overflow: auto;
+}
+.lakshyaDiv{
+    display:inline-block;
+    text-align: center;
+    height: 400px;
+    overflow: auto;
+}
+.sainaDiv{
+    display:inline-block;
+    text-align: center;
+    height: 400px;
+    overflow: auto;
+}
